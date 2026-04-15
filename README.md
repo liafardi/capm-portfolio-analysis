@@ -63,22 +63,22 @@ Where:
 
 ### Opportunity Set
 <p align="center">
-  <img src="plots/opportunity_set.png" width="500">
+  <img src="opportunity_set.png" width="500">
 </p>
 
 ### Security Market Line
 <p align="center">
-  <img src="plots/sml.png" width="500">
+  <img src="sml.png" width="500">
 </p>
 
 ### Efficient Frontier
 <p align="center">
-  <img src="plots/efficient_frontier.png" width="500">
+  <img src="efficient_frontier.png" width="500">
 </p>
 
 ### Portfolio Performance
 <p align="center">
-  <img src="plots/performance.png" width="500">
+  <img src="performance.png" width="500">
 </p>
 
 ## How to Run
