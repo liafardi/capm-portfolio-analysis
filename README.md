@@ -73,7 +73,7 @@ Where:
 
 ### Efficient Frontier
 <p align="center">
-  <img src="efficient_frontier.png" width="500">
+  <img src="/plots/efficient_frontier.png" width="500">
 </p>
 
 ### Portfolio Performance
